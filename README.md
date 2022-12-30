@@ -1,4 +1,4 @@
-# Yandex.Praktikum Data Science Plus Projects
+# Yandex.Practicum Data Science Plus Projects
 
 Repository with projects implemented as part of the profession "Specialist in Data Science Plus" in Practicum by Yandex
 
